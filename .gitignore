@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Archivos y directorios bajados para el Taller Jupyter
+diccionario_datos_covid19/
+*.zip
+*.csv
