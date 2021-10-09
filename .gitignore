@@ -131,4 +131,4 @@ dmypy.json
 # Archivos y directorios bajados para el Taller Jupyter
 diccionario_datos_covid19/
 *.zip
-*.csv
+*COVID19MEXICO.csv
